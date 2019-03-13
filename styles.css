@@ -8,7 +8,10 @@
   text-align: center;
   display: inline-block;
   margin: 30px;
+}
 
+.dice p {
+  font-size: 15px;
 }
 
 body {
@@ -20,14 +23,15 @@ h1 {
   font-family: 'Press Start 2P', cursive;
   text-shadow: 5px 5px #232931;
   font-size: 5rem;
-  color: AliceBlue;
+  color: white;
 }
 
 p {
   font-size: 1.3rem;
   color: AliceBlue;
   font-family: 'Press Start 2P', cursive;
-  margin-top: 20%;
+  margin-top: 40%;
+  text-shadow: 0 0 1px #232931;
 }
 
 .hasil {
@@ -35,6 +39,15 @@ p {
   color: AliceBlue;
   font-family: 'Press Start 2P', cursive;
   margin-top: 8%;
+  /* text-shadow: 0 0 1px #232931; */
+}
+
+.hasil2 {
+  font-size: 1.3rem;
+  color: AliceBlue;
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 8%;
+  /* text-shadow: 0 0 1px #232931; */
 }
 
 img {
@@ -43,10 +56,30 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 7%;
   color: #EEEEEE;
-  text-align: center;
   font-family: 'Press Start 2P', cursive;
-  font-size: 1rem;
+  text-shadow: 0 0 1px #232931;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+}
 
+.main:hover {
+  color: white;
+  cursor: pointer;
+}
+
+button {
+  font-family: 'Press Start 2P', cursive;
+  height: 45px;
+  width: 100px;
+  text-align: center;
+  font-size: 15px;
+  color: #383736;
+  border: 2px #383736 solid;
+  border-radius: 4px;
+  display: block;
+  text-align: center;
+  margin: 5px auto;
 }

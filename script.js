@@ -1,9 +1,12 @@
+//variabel untuk menentukan document object
 var hasil = document.querySelector('.hasil');
 var button = document.querySelector('button');
 var dadu1 = document.querySelectorAll('img')[0];
 var dadu2 = document.querySelectorAll('img')[1];
 
+//event saat tombol ditekan
 button.addEventListener('click', function () {
+    //angka random 1 - 6
     var randomDadu1 = Math.floor((Math.random() * 6) + 1);
     var randomDadu2 = Math.floor((Math.random() * 6) + 1);
 

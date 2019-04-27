@@ -1,7 +1,7 @@
 # Dicee Game
 ## :writing_hand: Konten
-- [About The Project](#about-the-project)
-- [Notes](#notes)
+- _[About The Project](#about-the-project)_
+- _[Notes](#notes)_
 
 ## About The Project
 **Repo ini dibuat untuk:**
@@ -18,15 +18,19 @@
 - CSS
 - Vanilla Javascript
 
-**_Links .._** 
-- _See it live! <a href="https://xvferdy.github.io/salary-survey-2019/" target="_blank">Here</a>_
+**To Do:**
+- [ ] _Score_
+- [ ] Rubah `Math.random()`
+
+**Links ..** 
+- _See it live! <a href="https://xvferdy.github.io/dicee-game/" target="_blank">Here</a>_
 - _Play around with it on <a href="https://codepen.io/xvferdy/pen/mgobPr" target="_blank">CodePen</a>_
     
-**_Acknowledgements .._**
-- [GitHub Pages](https://pages.github.com)
-- [Google Fonts - Press Start 2P](https://fonts.google.com/)
+**Acknowledgements ..**
+- _[Google Fonts - Press Start 2P](https://fonts.google.com/)_
 
 - - -
+
 ## Notes
 ### :closed_book: Catatan
 **_1. Event `click`_** 

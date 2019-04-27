@@ -19,8 +19,8 @@
 - ...Vanilla Javascript
 
 **To Do:**
-- ...[ ] _Score_
-- ...[ ] Rubah `Math.random()`
+- [ ] _Score_
+- [ ] Rubah `Math.random()`
 
 **Links:** 
 - _...See it live! <a href="https://xvferdy.github.io/dicee-game/" target="_blank">Here</a>_

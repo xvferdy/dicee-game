@@ -5,29 +5,29 @@
 
 ## About The Project
 **Repo ini dibuat untuk:**
-- ... Belajar HTML dasar
-- ... Belajar CSS dasar
-- ... Belajar javascript dasar
+- ...Belajar HTML dasar
+- ...Belajar CSS dasar
+- ...Belajar javascript dasar
 
 **Overview :arrow_heading_down:**
 <img src="images/overview.png">
 
 **Dibuat menggunakan:**
-- Notepad++
-- HTML
-- CSS
-- Vanilla Javascript
+- ...Notepad++
+- ...HTML
+- ...CSS
+- ...Vanilla Javascript
 
 **To Do:**
-- [ ] _Score_
-- [ ] Rubah `Math.random()`
+- ...[ ] _Score_
+- ...[ ] Rubah `Math.random()`
 
-**Links ..** 
-- _See it live! <a href="https://xvferdy.github.io/dicee-game/" target="_blank">Here</a>_
-- _Play around with it on <a href="https://codepen.io/xvferdy/pen/mgobPr" target="_blank">CodePen</a>_
+**Links:** 
+- _...See it live! <a href="https://xvferdy.github.io/dicee-game/" target="_blank">Here</a>_
+- _...Play around with it on <a href="https://codepen.io/xvferdy/pen/mgobPr" target="_blank">CodePen</a>_
     
-**Acknowledgements ..**
-- _[Google Fonts - Press Start 2P](https://fonts.google.com/)_
+**Acknowledgements:**
+- _...[Google Fonts - Press Start 2P](https://fonts.google.com/)_
 
 - - -
 

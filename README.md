@@ -1,13 +1,14 @@
 # Dicee Game
+**Repo ini dibuat untuk:**
+- ...Belajar HTML dasar
+- ...Belajar CSS dasar
+- ...Belajar javascript dasar
 ## :writing_hand: Konten
 - _[About The Project](#about-the-project)_
 - _[Notes](#notes)_
 
 ## About The Project
-**Repo ini dibuat untuk:**
-- ...Belajar HTML dasar
-- ...Belajar CSS dasar
-- ...Belajar javascript dasar
+
 
 **Overview :arrow_heading_down:**
 <img src="images/overview.png">

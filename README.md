@@ -1,4 +1,5 @@
 # Dicee Game
+> :information_source: _Making this app will help you learn to code._
 
 ## :round_pushpin:Konten
 - _[About The Project](#about-the-project)_
@@ -8,6 +9,9 @@
 - ...Belajar HTML dasar
 - ...Belajar CSS dasar
 - ...Belajar javascript dasar
+
+**What the project does:**
+- ...Simpel game, 2 pemain bertaruh pada dadu mereka
 
 **Overview :rainbow:**
 <img src="images/overview.png">
